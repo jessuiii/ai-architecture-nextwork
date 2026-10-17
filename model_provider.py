@@ -1,6 +1,6 @@
 from google import genai
 from dotenv import load_dotenv
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from google.genai import errors
 
 # Load the local key before creating the Gemini client.
