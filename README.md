@@ -1,4 +1,3 @@
-[![Architecture Check](https://github.com/jessuiii/ai-architecture-nextwork/actions/workflows/architecture.yml/badge.svg)](https://github.com/jessuiii/ai-architecture-nextwork/actions/workflows/architecture.yml)
 # AI Question Answering Service
 
 ## Architecture
@@ -27,3 +26,5 @@ C4Container
     UpdateRelStyle(orchestrator, model_provider, $offsetX="-45", $offsetY="-10")
     UpdateRelStyle(model_provider, genai, $offsetX="10")
 ```
+
+[![Architecture Check](https://github.com/jessuiii/ai-architecture-nextwork/actions/workflows/architecture.yml/badge.svg)](https://github.com/jessuiii/ai-architecture-nextwork/actions/workflows/architecture.yml)
