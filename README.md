@@ -1,3 +1,4 @@
+[![Architecture Check](https://github.com/jessuiii/ai-architecture-nextwork/actions/workflows/architecture.yml/badge.svg)](https://github.com/jessuiii/ai-architecture-nextwork/actions/workflows/architecture.yml)
 # AI Question Answering Service
 
 ## Architecture
